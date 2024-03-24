@@ -1,3 +1,4 @@
+package Seccion4;
 
 public class TiposPrimitivos {
 
